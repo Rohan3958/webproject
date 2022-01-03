@@ -1,0 +1,24 @@
+{
+  "name": "rohan",
+  "version": "1.0.0",
+  "description": "Its her choice",
+  "main": "rp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohan Patil",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "crypto-js": "^4.1.1",
+    "ejs": "^3.1.6",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "joi": "^17.5.0",
+    "jsdom": "^19.0.0",
+    "json-db": "^0.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

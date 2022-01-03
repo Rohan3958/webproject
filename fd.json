@@ -1,0 +1,29 @@
+{
+         "fd1" :{
+         "name": "Ram",
+         "Address": "Kolhapur",
+         "profession" : "Teacher",
+         "id":1
+    },
+         "fd2" : {
+         "name" : "Sham",
+         "Address" : "Vadinge",
+         "Profession" : "Developer",
+         "id" : 2
+    },
+   
+         "fd3" :{
+         "name" : "Rahul",
+         "Address" : "Pampav",
+         "Profession" : "BlockChain dev",
+         "id": 3
+},
+         "fd4" :{
+         "name" : "Kishan",
+         "Address" : "Satara",
+         "Profession" : "Data Analytics",
+         "id" : 4
+    
+    }
+
+}
